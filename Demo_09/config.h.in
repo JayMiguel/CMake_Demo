@@ -1,0 +1,6 @@
+// 获取pow函数是否存在的结果
+#cmakedefine HAVE_POW
+
+// 获取版本信息
+#define Demo_VERSION_MAJOR @Demo_VERSION_MAJOR@
+#define Demo_VERSION_MINOR @Demo_VERSION_MINOR@
